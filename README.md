@@ -37,4 +37,4 @@
   <a href="https://t.me/termuxdev00"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23229ED9"></a>
   <a href="https://www.facebook.com/termuxdev00"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%233b5998"></a>
 </p>
-<h5 align="left">Termux Dev © 2024</h1>
+<h5 align="left">TERMUX DEV © 2024</h1>
