@@ -3,7 +3,7 @@
 <h3 align="center">Learning Web Development on Android with Termux!</h3>
 
 <p align="center">
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg" width="640" height="360">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg">
 </p>
 <p align="center">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMtMkZQc7Sgbamq_YFe24xQ">
