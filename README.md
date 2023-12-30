@@ -13,7 +13,7 @@
 <h1 align="center">Skills</h1>
 <p align="center" height="200">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png" width="40" height="40">
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png" width="40" height="46">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/javascript.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/react.png" width="44" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/nodejs.png" width="36" height="40">
