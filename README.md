@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Termux-Dev!</h1>
 
-<h3 align="center">Learning Web Development on Android with Termux!</h3>
+<h3 align="center">Hello, I am a web developer and I like to create content to teach everything I have learned.</h3>
 
 <p align="center">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg">
