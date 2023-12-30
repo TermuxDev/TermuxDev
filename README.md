@@ -1,7 +1,5 @@
-\begin{center}
-# Hello Dev's!
-# Welcome to Termux-Dev
-\end{center}
+<h1 align="center">Hello Dev's!
+Welcome to Termux-Dev</h1>
 
 Learning Web Development on Android with Termux!
 ![Static Badge](https://img.shields.io/badge/Termux_Dev-black)
