@@ -9,14 +9,19 @@
 <div>
   <h2>Skills</h2>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>
+    HTML
+    <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png">
+    </li>
+    <li>
+    CSS
+    <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png">
+    </li>
     <li>JAVASCRIPT</li>
     <li>REACTJS</li>
     <li>NODEJS</li>
     <li>EXPRESSJS</li>
     <li>MONGODB</li>
     <li>GIT</li>
-    <li>GITHUB</li>
   </ul>
 </div>
