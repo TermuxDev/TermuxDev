@@ -2,16 +2,15 @@
 
 <h3 align="center">Learning Web Development on Android with Termux!</h3>
 
-![Static Badge](https://img.shields.io/badge/Termux_Dev-black)
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Termux_Dev-black">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg" width="640" height="360">
 </p>
 
 <h1>Skills</h1>
 <p align="center">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png" width="40" height="40">
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png" width="40" height="46">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/javascript.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/react.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/nodejs.png" width="40" height="40">
