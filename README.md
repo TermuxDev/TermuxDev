@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Termux_Dev-black)
 
 <p align="center">
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg" width="600" height="360">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg" width="640" height="360">
 </p>
 
 <h1>Skills</h1>
