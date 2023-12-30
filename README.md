@@ -4,7 +4,10 @@
 <h3 align="center">Learning Web Development on Android with Termux!</h3>
 
 ![Static Badge](https://img.shields.io/badge/Termux_Dev-black)
-![banner](https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg)
+
+<p align="center">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg" width="600" height="360">
+</p>
 
 <h1>Skills</h1>
 <p align="center">
