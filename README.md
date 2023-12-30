@@ -5,3 +5,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Termux_Dev-black)
 ![banner](https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg)
+
+<h2>Skills</h2>
+<p align="center">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png" width="40" height="40">
+</p>
