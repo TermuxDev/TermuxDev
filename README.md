@@ -24,5 +24,7 @@
 </p>
 <h1 align="center">Social</h1>
 <p align="center">
-  <a href="https://youtube.com/@TermuxDev00"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%23c4302b"></a>
+  <a href="https://youtube.com/@TermuxDev00"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23c4302b"></a>
+  <a href="https://tiktok.com/@termuxdev00"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-black"></a>
+  <a href="https://t.me/termuxdev00"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%229ED9"></a>
 </p>
