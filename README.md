@@ -4,7 +4,7 @@
 <p>Learning Web Development on Android with Termux!</p>
 </div>
 <div>
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/cover.jpg" />
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg" />
 </div>
 <div>
   <h2>Skills</h2>
