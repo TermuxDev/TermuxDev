@@ -6,7 +6,15 @@
 ![Static Badge](https://img.shields.io/badge/Termux_Dev-black)
 ![banner](https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg)
 
-<h2>Skills</h2>
+<h1>Skills</h1>
 <p align="center">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/javascript.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/reactjs.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/nodejs.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/expressjs.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/mongodb.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/git.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/github.png" width="40" height="40">
 </p>
