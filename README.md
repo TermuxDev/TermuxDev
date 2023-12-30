@@ -22,3 +22,7 @@
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/git.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/github.png" width="40" height="40">
 </p>
+<h1 align="center">Social</h1>
+<p align="center">
+  <a href="https://youtube.com/@TermuxDev00"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%23c4302b"></a>
+</p>
