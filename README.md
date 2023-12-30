@@ -8,15 +8,13 @@
 </div>
 <div>
   <h2>Skills</h2>
-  <ul>
-    <li>
-    HTML
-    <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png">
-    </li>
-    <li>
+  <div>
+    <div align="center">
+      <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png">
+    </div>
     CSS
     <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png">
-    </li>
+
     <li>JAVASCRIPT</li>
     <li>REACTJS</li>
     <li>NODEJS</li>
@@ -24,4 +22,5 @@
     <li>MONGODB</li>
     <li>GIT</li>
   </ul>
+  </div>
 </div>
