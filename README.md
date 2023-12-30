@@ -9,7 +9,7 @@
 <div>
   <h2>Skills</h2>
   <div>
-    <div align="center">
+    <div color="blue">
       <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png">
     </div>
     CSS
