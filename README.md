@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Termux-Dev!</h1>
 
-<p align="center">Hello, I am a web developer and I like to create content to teach everything I have learned.</p>
+<p align="center">Hello, I am a web developer and I like to create content to teach everything I have learned. In addition, I try to focus on the Termux application, since my goal is to develop web applications, without having to use a computer and so that any Android user can learn to program.</p>
 
 <p align="center">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg">
