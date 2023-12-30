@@ -1,3 +1,3 @@
-### Hello Devs
-### Welcome to Termux-Dev
-Learning Web Development on Android with Termux!
+<h1>HELLO DEVS</h1>
+<h2>Welcome to Termux-Dev</h2>
+<p>Learning Web Development on Android with Termux!</p>
