@@ -16,7 +16,7 @@
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/javascript.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/react.png" width="44" height="40">
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/tailwindcss.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/tailwindcss.png" width="60" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/nodejs.png" width="36" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/expressjs.png" width="48" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/mongodb.png" width="40" height="40">
