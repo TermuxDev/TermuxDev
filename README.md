@@ -4,5 +4,5 @@
 <p>Learning Web Development on Android with Termux!</p>
 </header>
 <div>
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/banner.jpg" />
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/cover.jpg" />
 </div>
