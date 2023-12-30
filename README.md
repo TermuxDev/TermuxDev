@@ -6,9 +6,8 @@
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/img/cover.jpg" width="640" height="360">
 </p>
 <p align="center">
-  <a href="https://github.com/TermuxDev/termux-dev">
-    <img src="https://img.shields.io/badge/Termux_Dev-black" align="center">
-  </a>
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMtMkZQc7Sgbamq_YFe24xQ">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TermuxDev/TermuxDev">
 </p>
 
 <h1 align="center">Skills</h1>
@@ -16,9 +15,9 @@
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/html.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/css.png" width="40" height="46">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/javascript.png" width="40" height="40">
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/react.png" width="40" height="40">
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/nodejs.png" width="40" height="40">
-  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/expressjs.png" width="40" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/react.png" width="44" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/nodejs.png" width="36" height="40">
+  <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/expressjs.png" width="48" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/mongodb.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/git.png" width="40" height="40">
   <img src="https://github.com/TermuxDev/TermuxDev/blob/main/icons/github.png" width="40" height="40">
